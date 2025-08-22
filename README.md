@@ -1,1 +1,2 @@
 To make Stack-chan popular worldwide, I am creating a gachapon-sized gadget called the "AI Stack-chan minimal series." This product doesn't have AI features yet, but as a step towards making it multilingual, I've developed a version that speaks English with the adorable Stack-chan face (M5Avatar). In near future, this product is going to add AI chat bot functions based on Local LLM.
+https://studio.youtube.com/video/IK8xbta1miA/edit
